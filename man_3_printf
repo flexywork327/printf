@@ -1,6 +1,6 @@
-                      16/10/22             \" DATE
+                      19/10/22             \" DATE
 
-.Sh AUTHOR 		\"Olayiwola Olakunle, Uzochukwu Ofonyiri
+.Sh AUTHOR 		\"Asare Felix,
 
 .Dt _Printf ( "Alx Software Engineering Printf Manual"  \" Program name and manual section number
 .   
@@ -77,4 +77,4 @@ return (0);
 
 }
 
-Hello world, I'm a nurse
+Hello world, I'm a Software Engineer
